@@ -1,0 +1,25 @@
+{
+  "name": "golf",
+  "authors": [
+    "Michael Maloney"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha.2",
+    "moment": "momentjs#~2.10.6",
+    "amcharts3": "~3.18.4",
+    "tether": "~1.1.1"
+  }
+}
